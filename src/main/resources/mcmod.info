@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arctyllconfig",
+  "name": "Arctyll Config",
+  "description": "A configuration library for your Minecraft 1.8.9 mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Arctyll/ArctyllConfig",
+  "updateUrl": "",
+  "authorList": ["Arctyll"],
+  "credits": "Arctyll Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
