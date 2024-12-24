@@ -18,8 +18,8 @@ apply plugin: "net.minecraftforge.gradle.forge"
 apply plugin: 'org.spongepowered.mixin'
 
 version = "1.8.9-1.0"
-group = "org.arctyll.arctyllconfig"
-archivesBaseName = "ArctyllConfig"
+group = "org.arctyll.configura"
+archivesBaseName = "Configura"
 
 sourceCompatibility = targetCompatibility = 1.8
 compileJava.options.encoding = "UTF-8"
