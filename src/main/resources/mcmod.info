@@ -3,7 +3,7 @@
   "modid": "configura",
   "name": "Configura",
   "description": "A configuration library for your Minecraft 1.8.9 mod.",
-  "version": "1.8.9-1.0",
+  "version": "1.0",
   "mcversion": "1.8.9",
   "url": "https://github.com/Arctyll/ArctyllConfig",
   "updateUrl": "",
